@@ -13,5 +13,5 @@ Basic primary features are added like
 Developed by karthik (please recommend the improvements).
 
 Application Link
-https://savenoteonline.netlify.app/
+https://notessaver.netlify.app/
 
